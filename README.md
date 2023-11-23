@@ -3,8 +3,8 @@
 Implementation and experimental data for the paper
 
 > L. Romero-Ben, P. Irofti, F. Stoican, and V. Puig,
-“Learning Dictionaries from Physical-Based Interpolation
-for Water Network Leak Localization,”
+“State estimation through Unscented Kalman Filter for 
+data-driven leak localization in water distribution networks,”
 pp. 1--12, 2023.
 
 If you use our work in your research, please cite as:
